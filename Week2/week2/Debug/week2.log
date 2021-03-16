@@ -1,0 +1,3 @@
+﻿  nestedLoopStars.cpp
+C:\Users\peter\OneDrive\Documents\College\year2\semester2\ads\labWork&classExamples\Week2\week2\nestedLoopStars.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  week2.vcxproj -> C:\Users\peter\OneDrive\Documents\College\year2\semester2\ads\labWork&classExamples\Week2\week2\Debug\week2.exe

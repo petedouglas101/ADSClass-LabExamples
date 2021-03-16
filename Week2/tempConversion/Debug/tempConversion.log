@@ -1,0 +1,3 @@
+﻿  tempConversion.c
+C:\Users\peter\OneDrive\Documents\College\year2\semester2\ads\labWork&classExamples\Week2\tempConversion\tempConversion.c(13,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  tempConversion.vcxproj -> C:\Users\peter\OneDrive\Documents\College\year2\semester2\ads\labWork&classExamples\Week2\tempConversion\Debug\tempConversion.exe

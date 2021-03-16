@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\peter\OneDrive\Documents\College\year2\semester2\ads\labWork&classExamples\Week2\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\peter\OneDrive\Documents\College\year2\semester2\ads\labWork&classExamples\Week2\Source.cpp(11,2): error C3861: 'scanf_f': identifier not found
+C:\Users\peter\OneDrive\Documents\College\year2\semester2\ads\labWork&classExamples\Week2\Source.cpp(13,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
